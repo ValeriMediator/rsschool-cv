@@ -1,1 +1,1 @@
-https://ValeriMediator.github.io/rsschool-cv/cv
+https://ValeriMediator.github.io/rsschool-cv
