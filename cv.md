@@ -1,5 +1,5 @@
 # Valeriya Palkhouskaya #
-### contacts ###
+#### contacts ####
 * email: valeripolh@gmail.com
 * phone: +375291085003
 * tm: valeria_mediator
@@ -8,15 +8,15 @@
 ## about myself ##
 I learn Front-End Development in RSSchool! 
 
-## skills:##
+### skills: ###
 * HTML&CSS (elementary)
 * Git (elementary)
 * JS (elementary)
 
-## experience ##
+### experience ###
 I work solicitor at factory. 
 
-## language ##
+### language ###
 english A2
 
   
